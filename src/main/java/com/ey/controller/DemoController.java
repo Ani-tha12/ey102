@@ -12,6 +12,6 @@ public class DemoController {
 	@GetMapping
 	public String home()
 	{
-		return "welcome";
+		return "welcome to java programming ";
 	}
 }
